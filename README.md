@@ -1,5 +1,5 @@
 # CMPINF 0010 Final Project (Canvas Group #25)
-Team name:   
+Team name: The Pittsburgh Pleasant Places Posse  
 By Brandon McCoy (bwm38@pitt.edu), Derek Eppinger (dje27@pitt.edu), and Ryan Novak (ryn14@pitt.edu)
 
 ### Which Neighborhood In Pittsburgh Is Most Livable?
